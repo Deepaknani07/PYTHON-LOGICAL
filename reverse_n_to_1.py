@@ -5,4 +5,4 @@ def display(n:int)->None:
         i =i-1
 if __name__ == '__main__':
     n = int(input("enter the number:"))
-    display(n)
+    display(n)  
