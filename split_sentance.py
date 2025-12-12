@@ -1,0 +1,6 @@
+print("enter the string")
+str = input()
+print(len(str))
+str1 = str.split()
+print(str1)
+print(len(str1))
