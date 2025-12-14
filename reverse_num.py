@@ -11,3 +11,6 @@ if __name__ == '__main__':
     print(rev_number(n))
     
     
+n = int(input("enter the number:"))    
+rev = n[::-1]
+print("reversed number is :",rev)
