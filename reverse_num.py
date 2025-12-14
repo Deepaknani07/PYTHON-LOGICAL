@@ -9,3 +9,5 @@ def rev_number(n:int)->int:
 if __name__ == '__main__':
     n = int(input("enter the number:"))
     print(rev_number(n))
+    
+    
